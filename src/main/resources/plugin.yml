@@ -1,0 +1,5 @@
+name: Boater
+version: 1.0
+main: Boater
+api-version: 1.16
+depend: [WorldEdit]
